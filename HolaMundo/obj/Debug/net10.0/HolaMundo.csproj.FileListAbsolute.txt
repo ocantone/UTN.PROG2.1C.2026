@@ -1,0 +1,15 @@
+C:\_UTN_PROG2_2026\HolaMundo\bin\Debug\net10.0\HolaMundo.exe
+C:\_UTN_PROG2_2026\HolaMundo\bin\Debug\net10.0\HolaMundo.deps.json
+C:\_UTN_PROG2_2026\HolaMundo\bin\Debug\net10.0\HolaMundo.runtimeconfig.json
+C:\_UTN_PROG2_2026\HolaMundo\bin\Debug\net10.0\HolaMundo.dll
+C:\_UTN_PROG2_2026\HolaMundo\bin\Debug\net10.0\HolaMundo.pdb
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.AssemblyInfoInputs.cache
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.AssemblyInfo.cs
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.sourcelink.json
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.dll
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\refint\HolaMundo.dll
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.pdb
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\HolaMundo.genruntimeconfig.cache
+C:\_UTN_PROG2_2026\HolaMundo\obj\Debug\net10.0\ref\HolaMundo.dll

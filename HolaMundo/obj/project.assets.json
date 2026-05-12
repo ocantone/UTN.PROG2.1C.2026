@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_UTN_PROG2_2026\\MiPrimerApp\\MiPrimerApp.csproj",
-      "projectName": "MiPrimerApp",
-      "projectPath": "C:\\_UTN_PROG2_2026\\MiPrimerApp\\MiPrimerApp.csproj",
+      "projectUniqueName": "C:\\_UTN_PROG2_2026\\HolaMundo\\HolaMundo.csproj",
+      "projectName": "HolaMundo",
+      "projectPath": "C:\\_UTN_PROG2_2026\\HolaMundo\\HolaMundo.csproj",
       "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-      "outputPath": "C:\\_UTN_PROG2_2026\\MiPrimerApp\\obj\\",
+      "outputPath": "C:\\_UTN_PROG2_2026\\HolaMundo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ocant\\AppData\\Roaming\\NuGet\\NuGet.Config"
