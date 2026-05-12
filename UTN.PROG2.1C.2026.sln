@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "HolaMundo\HolaMundo.csproj", "{92D74F99-9C90-190F-F220-390E983A8B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaAlumnos", "ListaAlumnos\ListaAlumnos.csproj", "{F851C44F-B5E7-270E-34DF-32EE74B3C77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D74F99-9C90-190F-F220-390E983A8B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D74F99-9C90-190F-F220-390E983A8B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D74F99-9C90-190F-F220-390E983A8B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D74F99-9C90-190F-F220-390E983A8B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F851C44F-B5E7-270E-34DF-32EE74B3C77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F851C44F-B5E7-270E-34DF-32EE74B3C77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F851C44F-B5E7-270E-34DF-32EE74B3C77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F851C44F-B5E7-270E-34DF-32EE74B3C77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EB0069-2F39-49B2-B709-F1225DCF197E}
+	EndGlobalSection
+EndGlobal

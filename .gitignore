@@ -1,0 +1,12 @@
+# Objetos y Binarios
+[Bb]in/
+[Ob]j/
+
+# Archivos de usuario de VS
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Herramientas de paquetes
+.nuget/
