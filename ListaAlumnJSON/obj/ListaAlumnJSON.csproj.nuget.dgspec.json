@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj",
-        "projectName": "HolaMundo",
-        "projectPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj",
+        "projectName": "ListaAlumnJSON",
+        "projectPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj",
         "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnJSON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

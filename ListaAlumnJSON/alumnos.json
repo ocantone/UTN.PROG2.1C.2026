@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "Juan",
+    "Apellido": "P\u00E9rez",
+    "Legajo": 1001
+  },
+  {
+    "Nombre": "Mar\u00EDa",
+    "Apellido": "Garc\u00EDa",
+    "Legajo": 1002
+  },
+  {
+    "Nombre": "Carlos",
+    "Apellido": "Rodr\u00EDguez",
+    "Legajo": 1003
+  },
+  {
+    "Nombre": "Ana",
+    "Apellido": "Mart\u00EDnez",
+    "Legajo": 1004
+  },
+  {
+    "Nombre": "Luis",
+    "Apellido": "S\u00E1nchez",
+    "Legajo": 1005
+  },
+  {
+    "Nombre": "Jerem\u00EDas",
+    "Apellido": "Springfield",
+    "Legajo": 10009
+  }
+]
