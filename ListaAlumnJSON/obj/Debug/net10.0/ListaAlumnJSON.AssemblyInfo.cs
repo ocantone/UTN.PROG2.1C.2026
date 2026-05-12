@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaAlumnJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fae40f5aa8ac05f2a6dd5558b393e9956be79b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc2dade2a59abd557973678fe1328c981040f38e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaAlumnJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaAlumnJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
