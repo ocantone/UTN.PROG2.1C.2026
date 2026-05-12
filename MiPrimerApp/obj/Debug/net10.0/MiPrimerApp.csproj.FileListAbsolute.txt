@@ -1,0 +1,15 @@
+C:\_UTN_PROG2_2026\MiPrimerApp\bin\Debug\net10.0\MiPrimerApp.exe
+C:\_UTN_PROG2_2026\MiPrimerApp\bin\Debug\net10.0\MiPrimerApp.deps.json
+C:\_UTN_PROG2_2026\MiPrimerApp\bin\Debug\net10.0\MiPrimerApp.runtimeconfig.json
+C:\_UTN_PROG2_2026\MiPrimerApp\bin\Debug\net10.0\MiPrimerApp.dll
+C:\_UTN_PROG2_2026\MiPrimerApp\bin\Debug\net10.0\MiPrimerApp.pdb
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.AssemblyInfoInputs.cache
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.AssemblyInfo.cs
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.csproj.CoreCompileInputs.cache
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.sourcelink.json
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.dll
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\refint\MiPrimerApp.dll
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.pdb
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\MiPrimerApp.genruntimeconfig.cache
+C:\_UTN_PROG2_2026\MiPrimerApp\obj\Debug\net10.0\ref\MiPrimerApp.dll

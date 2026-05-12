@@ -21,7 +21,7 @@ namespace EjemploListasAlumnos
             Console.WriteLine("--- Carga de Datos de Alumnos ---");
             
             // Llamamos a la función de carga pasándole la lista
-            CargarAlumnos(listaAlumnos, 10);
+            CargarAlumnos(listaAlumnos, 3);
 
             Console.WriteLine("\n--- Listado de Alumnos Registrados ---");
             
