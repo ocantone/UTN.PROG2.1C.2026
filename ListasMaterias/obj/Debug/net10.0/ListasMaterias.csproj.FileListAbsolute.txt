@@ -1,0 +1,15 @@
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\bin\Debug\net10.0\ListasMaterias.exe
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\bin\Debug\net10.0\ListasMaterias.deps.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\bin\Debug\net10.0\ListasMaterias.runtimeconfig.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\bin\Debug\net10.0\ListasMaterias.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\bin\Debug\net10.0\ListasMaterias.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.AssemblyInfoInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.AssemblyInfo.cs
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.csproj.CoreCompileInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.sourcelink.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\refint\ListasMaterias.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ListasMaterias.genruntimeconfig.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ListasMaterias\obj\Debug\net10.0\ref\ListasMaterias.dll

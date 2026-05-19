@@ -8,23 +8,33 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ocant\\.nuget\\packages\\": {}
+    "C:\\Users\\ocant\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_UTN_PROG2_2026\\ListaAlumnos\\ListaAlumnos.csproj",
+      "projectUniqueName": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnos\\ListaAlumnos.csproj",
       "projectName": "ListaAlumnos",
-      "projectPath": "C:\\_UTN_PROG2_2026\\ListaAlumnos\\ListaAlumnos.csproj",
+      "projectPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnos\\ListaAlumnos.csproj",
       "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-      "outputPath": "C:\\_UTN_PROG2_2026\\ListaAlumnos\\obj\\",
+      "outputPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\ListaAlumnos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ocant\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ocant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",

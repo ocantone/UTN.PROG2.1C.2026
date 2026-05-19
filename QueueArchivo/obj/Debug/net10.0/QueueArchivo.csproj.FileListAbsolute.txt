@@ -1,0 +1,15 @@
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\bin\Debug\net10.0\QueueArchivo.exe
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\bin\Debug\net10.0\QueueArchivo.deps.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\bin\Debug\net10.0\QueueArchivo.runtimeconfig.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\bin\Debug\net10.0\QueueArchivo.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\bin\Debug\net10.0\QueueArchivo.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.AssemblyInfoInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.AssemblyInfo.cs
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.csproj.CoreCompileInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.sourcelink.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\refint\QueueArchivo.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\QueueArchivo.genruntimeconfig.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\QueueArchivo\obj\Debug\net10.0\ref\QueueArchivo.dll
