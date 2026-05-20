@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj": {}
+    "C:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj": {}
   },
   "projects": {
-    "c:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj": {
+    "C:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj",
+        "projectUniqueName": "C:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj",
         "projectName": "ListaAlumnJSON",
-        "projectPath": "c:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj",
+        "projectPath": "C:\\_UTN_PROG2_2026\\ListaAlumnJSON\\ListaAlumnJSON.csproj",
         "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-        "outputPath": "c:\\_UTN_PROG2_2026\\ListaAlumnJSON\\obj\\",
+        "outputPath": "C:\\_UTN_PROG2_2026\\ListaAlumnJSON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ocant\\AppData\\Roaming\\NuGet\\NuGet.Config"
