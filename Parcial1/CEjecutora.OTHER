@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+
+class CEjecutora
+{
+    static void Main()
+    {
+        List<CRevista> listaRevistas = new List<CRevista>();
+        string codigo, titulo;
+        float costoBase;
+
+        Console.Write("Ingrese Descuento Anual: ");
+        CRevista.DescuentoAnual = float.Parse(Console.ReadLine());
+
+        Console.Write("Ingrese Código de Revista (FIN para terminar): ");
+        codigo = Console.ReadLine();
+
+        while (codigo != "FIN")
+        {
+            Console.Write("Ingrese Título: ");
+            titulo = Console.ReadLine();
+
+            CRevista revista = new CRevista(codigo, titulo);
+
+            Console.Write("Ingrese Costo Base de Suscripción: ");
+            costoBase = float.Parse(Console.ReadLine());
+            revista.SetCostoBase(costoBase);
+
+            listaRevistas.Add(revista);
+
+            Console.Write("Ingrese Código de Revista (FIN para terminar): ");
+            codigo = Console.ReadLine();
+        }
+
+        CRevista revistaMasEconomica = null;
+
+        Console.WriteLine("\n--- Listado de Revistas ---");
+        foreach (CRevista revista in listaRevistas)
+        {
+            Console.WriteLine(revista.DarDatos());
+            Console.WriteLine(revista.DarDatos(true));
+
+            if (revistaMasEconomica == null || revista.MasBarata(revistaMasEconomica))
+            {
+                revistaMasEconomica = revista;
+            }
+        }
+
+        if (revistaMasEconomica != null)
+        {
+            Console.WriteLine("\nRevista Más Económica:");
+            Console.WriteLine(revistaMasEconomica.DarDatos());
+        }
+
+        float total = CRevista.TotalRecaudado(listaRevistas);
+        Console.WriteLine($"\nTotal Recaudado: ${total}");
+
+        Console.ReadLine();
+    }
+}
