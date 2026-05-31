@@ -1,4 +1,4 @@
-// Legajo, Apellidos y Nombres del estudiante
+// Enviado por Pablo. Legajo, Apellidos y Nombres del estudiante
 
 using System;
 using System.Collections.Generic;
@@ -14,14 +14,23 @@ public class CRevista
 
 //********************************************
 // 2) Getter y Setter para costoBase
-    public float GetCostoBase()
-    {
-        return this.costoBase;
-    }
     public void SetCostoBase(float costoBase)
     {
         this.costoBase = costoBase;
     }
+
+    public float GetCostoBase()
+    {
+        return this.costoBase;
+    }
+    /* Esto no porque produce recursividad infinta.
+    public float costoBase
+    {
+        get { return costoBase; }
+        set { costoBase = value; }
+    }
+    */
+
 
     //********************************************
     // 3) Propiedad de lectura y escritura para descuentoAnual
@@ -40,12 +49,19 @@ public class CRevista
     }  
 
     //********************************************
-    // 5) Método sobrecargado CalcularCostoTotal
+    // 5) Método CalcularCostoTotal
     public float CalcularCostoTotal()
     {
         float costo = GetCostoBase() / 12;
         return costo;
     }
+    // O tambien
+    public float CalcularCosto()
+    {
+        return this.costoBase / 12f;
+    }
+    // La primera recurre siempre a "la ventanilla" geter, tiene ventaja si hay cambios a futuro. La segunda es más limpia, pero no escalable a futuro. Tambien funciona sin el this.
+
 
     //********************************************
     // 6) Método sobrecargado CalcularCostoTotal

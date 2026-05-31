@@ -1,0 +1,15 @@
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.AssemblyInfoInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.AssemblyInfo.cs
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.csproj.CoreCompileInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.sourcelink.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\bin\Debug\net10.0\While.exe
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\bin\Debug\net10.0\While.deps.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\bin\Debug\net10.0\While.runtimeconfig.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\bin\Debug\net10.0\While.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\bin\Debug\net10.0\While.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\refint\While.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\While.genruntimeconfig.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\While\obj\Debug\net10.0\ref\While.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\Parcial1\\Respuesta1a\\Respuesta1a.csproj": {}
+    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\While\\While.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\Parcial1\\Respuesta1a\\Respuesta1a.csproj": {
+    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\While\\While.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\Parcial1\\Respuesta1a\\Respuesta1a.csproj",
-        "projectName": "Respuesta1a",
-        "projectPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\Parcial1\\Respuesta1a\\Respuesta1a.csproj",
+        "projectUniqueName": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\While\\While.csproj",
+        "projectName": "While",
+        "projectPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\While\\While.csproj",
         "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\Parcial1\\Respuesta1a\\obj\\",
+        "outputPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\While\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
