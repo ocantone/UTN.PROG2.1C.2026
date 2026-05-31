@@ -7,6 +7,7 @@ public class CRevista
     private string codigo;
     private string titulo;
     private float costoBase; // Representa el valor TOTAL de 12 meses según enunciado
+    private static float descuentoAnual;
     
     // 2. Getter y Setter para costoBase
     //Como costoBase es privado, la ejecutora necesita interactuar con él.
@@ -23,24 +24,22 @@ public class CRevista
         return this.costoBase;
     }
 
-    // Al pedir que opere "aún antes de crear cualquier Revista", debe ser estática
-    
-
     // 3. Propiedad de lectura y escritura DescuentoAnual (Static)
-    //En C#, las propiedades combinan un campo privado con métodos get y set de forma 
-    // más limpia. Al ser estática, permite que la ejecutora asigne el valor global 
+    // Al pedir que opere "aún antes de crear cualquier Revista", debe ser estática
+    // En C#, las propiedades combinan un campo privado con métodos get y set de forma más limpia.
+    // Al ser estática, permite que la ejecutora asigne el valor global 
     //(aunque en la ejecutora del papel vemos que usan una variable suelta y omitieron
     // el prefijo CRevista., la propiedad queda disponible para la configuración del descuento).
-    private static float descuentoAnual;
     public static float DescuentoAnual
     {
         get { return descuentoAnual; }
         set { descuentoAnual = value; }
     }
 
-    // 4. Método constructor parametrizado (solo código y título)
-    /*El enunciado pide explícitamente que el constructor reciba sólo el código
-     y el título. Esto coincide con la línea de la ejecutora: CRevista revista = new CRevista(codigo, titulo);. El costo base se asigna después mediante el setter, no al momento de nacer el objeto.*/
+    // 4. Método constructor parametrizado con los argumentos código y título.
+    /* El enunciado pide explícitamente que el constructor reciba sólo el código y el título. 
+    Esto coincide con la línea de la ejecutora: CRevista revista = new CRevista(codigo, titulo);. 
+    El costo base se asigna después mediante el setter, no al momento de nacer el objeto.*/
     public CRevista(string codigo, string titulo)
     {
         this.codigo = codigo;
