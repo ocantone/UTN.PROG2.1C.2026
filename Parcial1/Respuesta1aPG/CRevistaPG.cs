@@ -1,5 +1,3 @@
-// Enviado por Pablo. Legajo, Apellidos y Nombres del estudiante
-
 using System;
 using System.Collections.Generic;
 
@@ -18,7 +16,6 @@ public class CRevista
     {
         this.costoBase = costoBase;
     }
-
     public float GetCostoBase()
     {
         return this.costoBase;
@@ -30,7 +27,6 @@ public class CRevista
         set { costoBase = value; }
     }
     */
-
 
     //********************************************
     // 3) Propiedad de lectura y escritura para descuentoAnual
