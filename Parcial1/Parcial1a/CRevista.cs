@@ -6,7 +6,7 @@ using System.Collections.Generic;
 public class CRevista
 {
     // 1. Adecuada declaración de las variables miembro
-    private string codigo;
+    private string codigo; 
     private string titulo;
     private float costoBase; // Representa el valor TOTAL de 12 meses según enunciado
     private static float descuentoAnual;

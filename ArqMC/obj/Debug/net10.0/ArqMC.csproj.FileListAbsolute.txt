@@ -1,0 +1,15 @@
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\bin\Debug\net10.0\ArqMC.exe
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\bin\Debug\net10.0\ArqMC.deps.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\bin\Debug\net10.0\ArqMC.runtimeconfig.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\bin\Debug\net10.0\ArqMC.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\bin\Debug\net10.0\ArqMC.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.AssemblyInfoInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.AssemblyInfo.cs
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.csproj.CoreCompileInputs.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.sourcelink.json
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\refint\ArqMC.dll
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.pdb
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ArqMC.genruntimeconfig.cache
+C:\Users\ocant\Desktop\UTN.PROG2.1C.2026\ArqMC\obj\Debug\net10.0\ref\ArqMC.dll

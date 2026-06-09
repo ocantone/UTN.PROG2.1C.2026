@@ -16,7 +16,7 @@ public class CEjecutora
         List<CRevista> revistas = new List<CRevista>();
         // Solicitar y establecer el valor del descuento anual
         Console.Write("Ingrese el porcentaje de descuento anual: ");
-        descuentoAnual = float.Parse(Console.ReadLine());
+        DescuentoAnual = float.Parse(Console.ReadLine());
         // Iterativamente solicitar y registrar los datos de las revistas
         Console.Write("Ingrese el código de la revista (o 'FIN' para terminar): ");
         codigo = Console.ReadLine().ToUpper();
