@@ -1,5 +1,12 @@
-﻿using System;
-// Importamos explícitamente los componentes del driver de MySQL
+﻿/*===============================================================================
+PROGRAMACIÓN III Conexión Lineal a MySQL 
+ 
+ ⚠️ Antes de correr el proyecto, se debe instalar el driver de MySQL.
+ Ejecutar este comando:
+ dotnet add package MySql.Data --source https://api.nuget.org/v3/index.json
+===============================================================================*/
+using System;
+// Importamos los componentes del driver de MySQL.
 using MySqlConnection = MySql.Data.MySqlClient.MySqlConnection;
 using MySqlCommand = MySql.Data.MySqlClient.MySqlCommand;
 using MySqlDataReader = MySql.Data.MySqlClient.MySqlDataReader;
@@ -10,12 +17,12 @@ namespace ListaBDAlumnos
     {
         static void Main(string[] args)
         {
-            // Definición de la cadena de conexión
+            // Cadena de conexión.
             string connectionString = "Server=localhost;Port=3306;Database=miBD;Uid=root;Pwd=root;";
 
             Console.WriteLine("Intentando conectar a la base de datos MySQL...");
 
-            // Abrimos la conexión asegurando el cierre de recursos con 'using'
+            // Abrimos la conexión asegurando el cierre de recursos con 'using'.
             using (MySqlConnection conexion = new MySqlConnection(connectionString))
             {
                 try

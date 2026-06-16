@@ -28,11 +28,11 @@ namespace ListaBDAlumnos.Models
                             Alumno alumno = new Alumno
                             {
                                 Legajo = Convert.ToInt32(lector["legajo"]),
-                                Nombre = lector["nombre"].ToString(),
-                                Apellido = lector["apellido"].ToString(),
-                                Email = lector["email"].ToString(),
-                                Carrera = lector["carrera"].ToString(),
-                                Turno = lector["turno"].ToString(),
+                                Nombre = lector["nombre"].ToString()??"",
+                                Apellido = lector["apellido"].ToString()??"",
+                                Email = lector["email"].ToString()??"",
+                                Carrera = lector["carrera"].ToString()??"",
+                                Turno = lector["turno"].ToString()??"",
                                 // Conversión explícita a tipo DateTime de C#
                                 FechaInscripcion = Convert.ToDateTime(lector["fecha_inscripcion"])
                             };

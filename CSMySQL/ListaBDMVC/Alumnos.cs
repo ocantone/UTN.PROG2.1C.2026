@@ -1,9 +1,11 @@
-/*
-===============================================================================
- ACTIVIDAD INTEGRADORA: PROGRAMACIÓN II + PROGRAMACIÓN III
- CLASE 3: Punto de Entrada Principal estructurado en MVC
-===============================================================================
-*/
+/*===============================================================================
+PROGRAMACIÓN III Conexión a MySQL (Enfoque MVC).
+ 
+ ⚠️ Antes de correr el proyecto, se debe instalar el driver de MySQL.
+ Ejecutar este comando:
+ dotnet add package MySql.Data --source https://api.nuget.org/v3/index.json
+===============================================================================*/
+
 
 using System;
 using ListaBDAlumnos.Models;
