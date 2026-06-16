@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\_UTN_PROG2_2026\\HolaMundo\\HolaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\_UTN_PROG2_2026\\HolaMundo\\HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\_UTN_PROG2_2026\\HolaMundo\\HolaMundo.csproj",
         "projectName": "HolaMundo",
-        "projectPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\HolaMundo.csproj",
+        "projectPath": "C:\\_UTN_PROG2_2026\\HolaMundo\\HolaMundo.csproj",
         "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\HolaMundo\\obj\\",
+        "outputPath": "C:\\_UTN_PROG2_2026\\HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,11 +25,11 @@
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -44,10 +44,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
