@@ -42,12 +42,12 @@ namespace ListaBDAlumnos
                             // Bloque iterativo: leemos fila por fila mientras el lector tenga datos
                             while (lector.Read())
                             {
-                                string legajo = lector["legajo"].ToString();
-                                string nombre = lector["nombre"].ToString();
-                                string apellido = lector["apellido"].ToString();
-                                string email = lector["email"].ToString();
-                                string carrera = lector["carrera"].ToString();
-                                string turno = lector["turno"].ToString();
+                                string legajo = lector["legajo"].ToString()??"";
+                                string nombre = lector["nombre"].ToString()??"";
+                                string apellido = lector["apellido"].ToString()??"";
+                                string email = lector["email"].ToString()??"";
+                                string carrera = lector["carrera"].ToString()??"";
+                                string turno = lector["turno"].ToString()??"";
 
                                 Console.WriteLine(string.Format("{0,-10} | {1,-12} | {2,-12} | {3,-32} | {4,-22} | {5,-8}", 
                                     legajo, nombre, apellido, email, carrera, turno));
