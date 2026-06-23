@@ -26,15 +26,15 @@ class Program
             Console.WriteLine("5. Salir");
             Console.Write("Seleccione una opción: ");
             
-            string opcion = Console.ReadLine();
+            string opcion = Console.ReadLine()??"";
 
             switch (opcion)
             {
                 case "1":
                     Console.Write("Ingrese la patente: ");
-                    string patente = Console.ReadLine();
+                    string patente = Console.ReadLine()??"";
                     Console.Write("Ingrese el tipo de combustible: ");
-                    string combustible = Console.ReadLine();
+                    string combustible = Console.ReadLine()??"";
                     
                     Auto nuevoAuto = new Auto(patente, combustible);
                     filaEstacion.Enqueue(nuevoAuto);
@@ -111,7 +111,7 @@ class Program
             {
                 // Suponiendo que la clase Auto tiene las propiedades públicas Patente y Combustible.
                 // Guardamos en formato: "AAA123;Nafta"
-                lineas.Add($"{auto.Patente}{Delimitador}{auto.Combustible}");
+                lineas.Add($"{auto.Patente}{Delimitador}{auto.TipoCombustible}");
             }
 
             // Escribe todas las líneas de golpe, pisando el archivo anterior

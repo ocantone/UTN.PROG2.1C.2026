@@ -14,5 +14,10 @@
   {
     "Patente": "AD345D",
     "TipoCombustible": "nafta"
+  },
+  {
+    "Patente": "AB432C",
+    "TipoCombustible": "diesel"
   }
+
 ]

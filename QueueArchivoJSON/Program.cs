@@ -31,9 +31,9 @@ class Program
             {
                 case "1":
                     Console.Write("Ingrese la patente: ");
-                    string patente = Console.ReadLine();
+                    string patente = Console.ReadLine()??"";
                     Console.Write("Ingrese el tipo de combustible: ");
-                    string combustible = Console.ReadLine();
+                    string combustible = Console.ReadLine()??"";
                     
                     Auto nuevoAuto = new Auto(patente, combustible);
                     filaEstacion.Enqueue(nuevoAuto);
