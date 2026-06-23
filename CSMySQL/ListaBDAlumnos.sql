@@ -1,9 +1,9 @@
 -- 1. Creación de la Base de Datos (con soporte UTF-8 para tildes y eñes)
-CREATE DATABASE IF NOT EXISTS miBD
+CREATE DATABASE IF NOT EXISTS Prog2comA
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_unicode_ci;
 
-USE miBD;
+USE Prog2comA;
 
 -- 2. Creación de la Tabla Alumnos
 CREATE TABLE IF NOT EXISTS alumnos (

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2YPKsQZl+HQ=",
+  "dgSpecHash": "TpHjhQ+72YU=",
   "success": true,
-  "projectFilePath": "C:\\MAMP\\htdocs\\Clase22_CSMySQL\\ListaBDAlumnos\\ListaBDAlumnos.csproj",
+  "projectFilePath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\CSMySQL\\ListaBDAlumnos\\ListaBDAlumnos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ocant\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\ocant\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",

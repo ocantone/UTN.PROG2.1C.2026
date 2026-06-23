@@ -1,5 +1,5 @@
 ﻿/*===============================================================================
-PROGRAMACIÓN III Conexión Lineal a MySQL 
+PROGRAMACIÓN II Conexión Lineal a MySQL 
  
  ⚠️ Antes de correr el proyecto, se debe instalar el driver de MySQL.
  En VSCode ejecutar este comando por terminal:
@@ -15,18 +15,12 @@ using MySqlDataReader = MySql.Data.MySqlClient.MySqlDataReader;
 
 namespace ListaBDAlumnos
 {
-    class Ejemplo
-    {
-        public void saludar (){
-            Console.WriteLine ("HOLA!");
-        }
-    }
     class Program
     {
         static void Main(string[] args)
         {
             // Cadena de conexión.
-            string connectionString = "Server=localhost;Port=3306;Database=miBD;Uid=root;Pwd=root;";
+            string connectionString = "Server=localhost;Port=3306;Database=prog2coma;Uid=root;Pwd=root;";
             Console.WriteLine("Intentando conectar a la base de datos MySQL...");
             // Abrimos la conexión asegurando el cierre de recursos con 'using'.
             using (MySqlConnection conexion = new MySqlConnection(connectionString))

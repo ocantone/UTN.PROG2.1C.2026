@@ -560,11 +560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MAMP\\htdocs\\Clase22_CSMySQL\\ListaBDAlumnos\\ListaBDAlumnos.csproj",
+      "projectUniqueName": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\CSMySQL\\ListaBDAlumnos\\ListaBDAlumnos.csproj",
       "projectName": "ListaBDAlumnos",
-      "projectPath": "C:\\MAMP\\htdocs\\Clase22_CSMySQL\\ListaBDAlumnos\\ListaBDAlumnos.csproj",
+      "projectPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\CSMySQL\\ListaBDAlumnos\\ListaBDAlumnos.csproj",
       "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-      "outputPath": "C:\\MAMP\\htdocs\\Clase22_CSMySQL\\ListaBDAlumnos\\obj\\",
+      "outputPath": "C:\\Users\\ocant\\Desktop\\UTN.PROG2.1C.2026\\CSMySQL\\ListaBDAlumnos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -578,7 +578,6 @@
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
