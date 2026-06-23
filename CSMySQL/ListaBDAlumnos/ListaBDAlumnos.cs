@@ -15,6 +15,12 @@ using MySqlDataReader = MySql.Data.MySqlClient.MySqlDataReader;
 
 namespace ListaBDAlumnos
 {
+    class Ejemplo
+    {
+        public void saludar (){
+            Console.WriteLine ("HOLA!");
+        }
+    }
     class Program
     {
         static void Main(string[] args)
