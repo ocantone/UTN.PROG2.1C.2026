@@ -20,20 +20,21 @@ namespace ListaBDAlumnos
         static void Main(string[] args)
         {
             // Cadena de conexión.
-            string connectionString = "Server=localhost;Port=3306;Database=prog2coma;Uid=root;Pwd=root;";
+            string conString = "Server=localhost;Port=3306;Database=prog2coma;Uid=root;Pwd=root;";
             Console.WriteLine("Intentando conectar a la base de datos MySQL...");
             // Abrimos la conexión asegurando el cierre de recursos con 'using'.
-            using (MySqlConnection conexion = new MySqlConnection(connectionString))
+            using (MySqlConnection conexion = new MySqlConnection(conString))
             { //conexion es un OJETO que prepara el canal TCP para conectar al servidor MySql.
                 try
-                {
+                {  //  COMPILADOS  EJEMPLO: C
+                   //INTERPRETADOS  EJEMPLO: Python, JavaScript, PHP.
                     conexion.Open(); //Aquí es dónde la conexión se abre. (Se cierra gracias a using)
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("¡Conexión exitosa al servidor de MySQL!\n");
                     Console.ResetColor();
 
                     // Sentencia SQL pura para interactuar con la BD
-           string consulta = "SELECT legajo, nombre, apellido, email, carrera, turno FROM alumnos";
+                    string consulta = "SELECT legajo, nombre, apellido, email, carrera, turno FROM alumnos WHERE turno = 'noche'";
 
                     using (MySqlCommand comando = new MySqlCommand(consulta, conexion))
                     {
@@ -47,7 +48,7 @@ namespace ListaBDAlumnos
                             Console.WriteLine("----------------------------------------------------------------------------------------------------------");
 
                             // Bloque iterativo: leemos fila por fila mientras el lector tenga datos
-                            while (lector.Read())
+                            while (lector.Read())  // UN REGISTRO.
                             {
                                 string legajo = lector["legajo"].ToString()??"";
                                 string nombre = lector["nombre"].ToString()??"";
@@ -56,8 +57,8 @@ namespace ListaBDAlumnos
                                 string carrera = lector["carrera"].ToString()??"";
                                 string turno = lector["turno"].ToString()??"";
 
-                                Console.WriteLine(string.Format("{0,-10} | {1,-12} | {2,-12} | {3,-32} | {4,-22} | {5,-8}", 
-                                    legajo, nombre, apellido, email, carrera, turno));
+                              Console.WriteLine(string.Format("{0,-10} | {1,-12} | {2,-12} | {3,-32} | {4,-22} | {5,-8}", 
+                              legajo, nombre, apellido, email, carrera, turno));
                             }
                             Console.WriteLine("==========================================================================================================\n");
                         }
@@ -71,7 +72,7 @@ namespace ListaBDAlumnos
                     Console.WriteLine(ex.Message);
                     Console.ResetColor();
                 }
-            }
+            }  //Cierra la conexión automáticamente. Evita RESOURCE LEAK.
 
             Console.WriteLine("Presione cualquier tecla para salir...");
             Console.ReadKey();
