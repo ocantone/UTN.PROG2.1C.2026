@@ -1,0 +1,3 @@
+CC222DD;Gasoil
+HJK234;Nafta
+CD123HI;Nafta

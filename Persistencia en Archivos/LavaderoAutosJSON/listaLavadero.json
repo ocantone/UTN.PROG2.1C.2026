@@ -1,0 +1,23 @@
+[
+  {
+    "Patente": "KMB292",
+    "TipoCombustible": "nafta"
+  },
+  {
+    "Patente": "EZY808",
+    "TipoCombustible": "nafta"
+  },
+   {
+    "Patente": "AC292E",
+    "TipoCombustible": "diesel"
+  },
+  {
+    "Patente": "AD345D",
+    "TipoCombustible": "nafta"
+  },
+  {
+    "Patente": "AB432C",
+    "TipoCombustible": "diesel"
+  }
+
+]
