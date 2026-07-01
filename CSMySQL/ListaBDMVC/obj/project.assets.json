@@ -560,11 +560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_UTN_PROG2_2026\\CSMySQL\\ListaBDMVC\\Alumnos.csproj",
+      "projectUniqueName": "C:\\localhost\\_UTN_PROG2_2026\\CSMySQL\\ListaBDMVC\\Alumnos.csproj",
       "projectName": "Alumnos",
-      "projectPath": "C:\\_UTN_PROG2_2026\\CSMySQL\\ListaBDMVC\\Alumnos.csproj",
+      "projectPath": "C:\\localhost\\_UTN_PROG2_2026\\CSMySQL\\ListaBDMVC\\Alumnos.csproj",
       "packagesPath": "C:\\Users\\ocant\\.nuget\\packages\\",
-      "outputPath": "C:\\_UTN_PROG2_2026\\CSMySQL\\ListaBDMVC\\obj\\",
+      "outputPath": "C:\\localhost\\_UTN_PROG2_2026\\CSMySQL\\ListaBDMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
